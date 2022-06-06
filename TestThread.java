@@ -1,8 +1,8 @@
 package deadlock;
 
 public class TestThread {
-	 public static Object Lock3 = new Object();
-	 public static Object Lock4 = new Object();
+	 public static Object Lock5 = new Object();
+	 public static Object Lock6 = new Object();
 	 
 	 public static void main(String args[]) {
 	 ThreadDemo1 T1 = new ThreadDemo1();
